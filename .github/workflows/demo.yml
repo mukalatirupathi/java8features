@@ -3,7 +3,7 @@ on:
  push:
  
 jobs:
- github-action demo:
+ github-action-demo:
   runs-on: ubuntu-latest
   steps:
   - name : print helo world
