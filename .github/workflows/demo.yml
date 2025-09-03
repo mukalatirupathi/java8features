@@ -1,4 +1,4 @@
-name : my first github workflow
+name: my first github workflow
 on:
  push:
  
